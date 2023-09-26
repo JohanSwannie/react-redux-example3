@@ -77,4 +77,5 @@ const AddPostForm = () => {
     </section>
   );
 };
+
 export default AddPostForm;
