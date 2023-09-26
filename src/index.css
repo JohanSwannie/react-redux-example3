@@ -67,3 +67,17 @@ form {
   color: whitesmoke;
   font-size: 1rem;
 }
+
+.loader {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 150px;
+  height: 150px;
+  color: whitesmoke;
+  padding: 1rem;
+  border: 2px solid whitesmoke;
+  border-radius: 55%;
+  line-height: 6;
+  text-align: center;
+}
